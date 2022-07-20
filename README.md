@@ -25,6 +25,7 @@ In this project, we'll use Python3.7.6 and Visual Studio Code to analyze and gen
     ![image](https://user-images.githubusercontent.com/107566776/179988938-bfaa74cb-f5cc-46d3-97e1-33f3d80a02e1.png)
     
 ## Election-Audit Summary
-The script for this Election-Audit can be used to analyze and generate result for any future election. 
-file_to_load = os.path.join("Resources", "election_results.csv"), you can update the election_results that contains new election data
-file_to_save = os.path.join("analysis", "election_analysis.txt"), save the output in new analysis_txt file.
+The script for this Election-Audit can be used to analyze and generate result for any future election. These two script can be changed to modify the result;
+
+i.file_to_load = os.path.join("Resources", "election_results.csv"), you can update the election_results that contains new election data
+ii.file_to_save = os.path.join("analysis", "election_analysis.txt"), save the output in new analysis_txt file.
